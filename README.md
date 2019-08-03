@@ -1,5 +1,5 @@
-Idea Plugin Hello World Demo
-=======================
+Idea Plugin Iterate All Files Demo
+==================================
 
 Run plugin in IDEA
 ------------------
